@@ -8,7 +8,7 @@
     "admob_banner": "/21952429235,22644075336/TTS_VIRTUALDJMIXERANDDJPLAYER_BANNER_AD",
     "admob_interstitial": "/21952429235,22644075336/TTS_VIRTUALDJMIXERANDDJPLAYER_INTERSTITIAL",
     "admob_native": "/21952429235,22644075336/TTS_VIRTUALDJMIXERANDDJPLAYER_NATIVE_AD",
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.onestopltd.djmixer.djplayer.djmixerstudio.djstudio.virtualdj",
     "is_version" : "false"
 }
