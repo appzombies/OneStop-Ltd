@@ -12,6 +12,6 @@
 
     "pause_all":true,
     "ad_type" : "1",
-    "new_pkg" : "com.videoplayer.musicplayer.audioplayer.videoplayerallformat",
+    "new_pkg" : "com.osl.video.player.videoplayer",
     "is_version" : "false"
   }
